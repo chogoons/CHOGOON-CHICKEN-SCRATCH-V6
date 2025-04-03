@@ -1,4 +1,4 @@
-# 조군 개발새발 V2(CHOGOON CHICKEN SCRATCH V6)
+# 조군 개발새발 V6(CHOGOON CHICKEN SCRATCH V6)
 
 조군 개발새발 V6(CHOGOON CHICKEN SCRATCH V6)은 조군(CHOGOON)이 제작한 한글 폰트입니다. 이 폰트는 "둥근모꼴+ Fixedsys" 폰트를 기반으로 한글(11,172자), 영문(52자), 숫자(10자) 및 일부 특수 문자를 수정하여 제작되었습니다.
 
